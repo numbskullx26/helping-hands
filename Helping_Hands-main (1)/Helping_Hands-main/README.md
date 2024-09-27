@@ -91,11 +91,10 @@ JWT_EXPIRE =
 
 COOKIE_EXPIRE = 
 
-5.Since the webiste is already hosted it has all the API calls set to the frontend or backend urls as needed , to run it on local machine please change the frontend url to your localhost URL and the backend url to your backend URL.
 
-6.Navigate to backend folder and run npm run dev on your terminal.
+5.Navigate to backend folder and run npm run dev on your terminal.
 
-7.Navigate to frontend folder and run npm run dev on your terminal.
+6.Navigate to frontend folder and run npm run dev on your terminal.
 (make sure both the frontend and backend terminals are running)
 
 
